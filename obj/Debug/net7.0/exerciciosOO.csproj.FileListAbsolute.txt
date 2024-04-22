@@ -1,0 +1,14 @@
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\bin\Debug\net7.0\exerciciosOO.exe
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\bin\Debug\net7.0\exerciciosOO.deps.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\bin\Debug\net7.0\exerciciosOO.runtimeconfig.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\bin\Debug\net7.0\exerciciosOO.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\bin\Debug\net7.0\exerciciosOO.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.AssemblyInfoInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.AssemblyInfo.cs
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.csproj.CoreCompileInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\refint\exerciciosOO.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\exerciciosOO.genruntimeconfig.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\exerciciosOO\obj\Debug\net7.0\ref\exerciciosOO.dll
